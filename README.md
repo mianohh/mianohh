@@ -8,7 +8,7 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/mianohh"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=24&pause=1000&center=true&vCenter=true&width=320&lines=Information+Technology+Student+!;Always+learning+new+things!+" alt="Typing SVG" /></a>
+  <a href="https://github.com/mianohh"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=24&pause=1000&center=true&vCenter=true&width=320&lines=IT+Student+!;Always+learning+new+things!+" alt="Typing SVG" /></a>
 </p>
 
 ## <picture><img src = "./assets/Images/about_me.gif" width = 50px></picture> **About me**
