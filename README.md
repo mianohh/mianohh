@@ -61,11 +61,7 @@
     ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
 </p>
 
-
-
 -----
-
-
 
 <details> 
   <summary><h2>  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats and Activity </b></h2></summary>
@@ -80,15 +76,11 @@
  
 
   ---
-[![](https://visitcount.itsvg.in/api?id=AbdelkarimDouadjia&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mianohh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </details>
 
 <!--![Snake animation](https://github.com/tassneemaltaf/tassneemaltaf/blob/output/github-contribution-grid-snake.svg)-->
 <br>
-<br>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=mianohh&label=Profile%20Views&pretty=false" />
-</a>
 <br>
 
