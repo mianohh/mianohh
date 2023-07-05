@@ -14,16 +14,15 @@
 ## <picture><img src = "./assets/Images/about_me.gif" width = 50px></picture> **About me**
 <picture> <img align="right" src="./assets/Images/Right_Side.gif" width = 250px></picture>
 <br>
-- A passionate Self-taught Software Engineer
-- Reading programming books and coding exercises on my free
-- Currently Student at University of Djillali Bounamaa
+- A passionate Self-learning Software Engineer
+- Reading programming books and coding exercises on my free time
+- Currently Student at Technical University of Mombasa
 - learning Web Development by Self⚡
- <!--or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)--> <!-- Personal website [link](https://www.)-->
+
 <br><br>
-<!--
- I am a highly motivated 🔭and ambitious computer science student🧑‍💻 currently in my second year at university Djillali Bounama. I have a passion⚡for software engineering 🚀 and am constantly seeking to expand my knowledge and skills in this field . Despite my lack of professional experience, I have demonstrated strong problem-solving abilities and a proactive attitude through various personal projects  and coursework. I am eager to apply my talents and abilities to real-world projects and make a positive impact in the industry.
+ I am a highly motivated 🔭and ambitious Information Technology student🧑‍💻 currently in my second year at Technical university Of Mombasa. I have a passion⚡for web development🚀 and am constantly seeking to expand my knowledge and skills in this field . Despite my lack of professional experience, I have demonstrated strong problem-solving abilities and a proactive attitude through various personal projects  and coursework. I am eager to apply my talents and abilities to real-world projects and make a positive impact in the industry.
  </p>
--->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
