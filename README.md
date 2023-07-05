@@ -87,5 +87,8 @@
 <!--![Snake animation](https://github.com/tassneemaltaf/tassneemaltaf/blob/output/github-contribution-grid-snake.svg)-->
 <br>
 <br>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=mianohh&label=Profile%20Views&pretty=false" />
+</a>
 <br>
 
