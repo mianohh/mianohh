@@ -80,7 +80,7 @@
 
 </details>
 
-<!--![Snake animation](https://github.com/tassneemaltaf/tassneemaltaf/blob/output/github-contribution-grid-snake.svg)-->
+![Snake animation](https://github.com/mianohh/mianohh/blob/output/github-contribution-grid-snake.svg)
 <br>
 <br>
 
