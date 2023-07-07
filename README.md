@@ -63,23 +63,18 @@
 
 -----
 
-<details> 
-  <summary><h2>  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats and Activity </b></h2></summary>
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats and Activity </b></h2>
 
-  <h3>🔥 Streak Stats</h3>
-   <img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="40%" align="right">
- 
-![](https://github-readme-stats.vercel.app/api?username=mianohh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<h3>💻 GitHub Profile Stats</h3>
- 
+<h3>🔥 Streak Stats</h3>
+<img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="40%" align="right">
+
+![](https://github-readme-stats.vercel.app/api?username=mianohh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+<h3>💻 GitHub Profile Stats</h3>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mianohh&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mianohh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
- 
 
-  ---
-<!--[![](https://visitcount.itsvg.in/api?id=mianohh&icon=0&color=0)](https://visitcount.itsvg.in)--->
+---
+[![](https://visitcount.itsvg.in/api?id=mianohh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</details>
-
-<br>
-<br>
 
