@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+
   <a href="https://github.com/mianohh"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=24&pause=1000&center=true&vCenter=true&width=320&lines=IT+Student+!;Always+learning+new+things!+" alt="Typing SVG" /></a>
 </p>
 
@@ -76,11 +76,10 @@
  
 
   ---
-[![](https://visitcount.itsvg.in/api?id=mianohh&icon=0&color=0)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=mianohh&icon=0&color=0)](https://visitcount.itsvg.in)--->
 
 </details>
 
-![Snake animation](https://github.com/mianohh/mianohh/blob/output/github-contribution-grid-snake.svg)
 <br>
 <br>
 
