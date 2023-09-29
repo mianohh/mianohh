@@ -67,13 +67,3 @@
 
 <h3>🔥 Streak Stats</h3>
 <img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="40%" align="right">
-
-![](https://github-readme-stats.vercel.app/api?username=mianohh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-<h3>💻 GitHub Profile Stats</h3>
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=mianohh&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
