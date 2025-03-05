@@ -35,8 +35,8 @@ My knowledge of AI development, along with problem-solving expertise, drives my 
 
 ## 💡 Let's Connect
 - 🌍 [Portfolio Website](#)
-- 💼 [LinkedIn](#)
-- 📝 [Twitter](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alex-miano-2085832a3/)
+- 📝 [Twitter](https://x.com/_mianoalex)
 
 ---
 🔹 *Always pushing boundaries in AI and entrepreneurship!* 🚀
