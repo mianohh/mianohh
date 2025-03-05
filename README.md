@@ -14,13 +14,18 @@
 ## <picture><img src = "./assets/Images/about_me.gif" width = 50px></picture> **About me**
 <picture> <img align="right" src="./assets/Images/Right_Side.gif" width = 250px></picture>
 <br>
-- A passionate Self-learning Software Engineer
-- Reading programming books and coding exercises on my free time
-- Currently Student at Technical University of Mombasa
-- learning Web Development by Self⚡
+-Data-Driven Decision Making
+-AI Monetization Strategies
+-AI Automation & Optimization
 
 <br><br>
- I am a highly motivated 🔭and ambitious Information Technology student🧑‍💻 currently in my second year at Technical university Of Mombasa. I have a passion⚡for web development🚀 and am constantly seeking to expand my knowledge and skills in this field . Despite my lack of professional experience, I have demonstrated strong problem-solving abilities and a proactive attitude through various personal projects  and coursework. I am eager to apply my talents and abilities to real-world projects and make a positive impact in the industry.
+🚀 AI Innovator | Tech Entrepreneur | Visionary
+
+The motivation for both research and enterprise drives me as a tech-driven AI enthusiast because I want to use Artificial Intelligence to transform African industries. I dedicate my work to developing AI solutions that resolve actual business impedance and increase a
+
+My knowledge of AI development together with problem-solving expertise drives my ongoing pursuit of AI integration within business organizations while I focus on the financial sector and new market environments. I have set my long-term objective to found AI-based business ventures across Africa which will utilize intelligent automation systems to drive corporate and community success via data-based choices.
+
+New AI technologies will advance Africa toward a brighter future through investigation and research. We should work together to form the upcoming technological movement.
  </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
