@@ -189,7 +189,6 @@ I'm always open to discussing **new projects**, **technical challenges**, or **c
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-000000?style=for-the-badge)](https://alexmiano.free.nf)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/alex-miano-2085832a3/)
-[![Email](https://img.shields.io/badge/📧_Email-Get_in_Touch-EA4335?style=for-the-badge)](mailto:contact@alexmiano.free.nf)
 
 </div>
 
