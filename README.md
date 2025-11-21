@@ -1,124 +1,138 @@
+<!-- DARK MODE FUTURISTIC README -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&color=00F0FF&center=true&vCenter=true&width=650&lines=Alex+Miano+Mwangi;Systems+Scientist+%7C+AI+%26+Web3+Developer;Building+with+Logic+%26+Spirit" />
+</h1>
+
 <div align="center">
 
-<!-- ANIMATED TYPING HEADER -->
-
-<a href="https://alexmiano.free.nf">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D35%26pause%3D1000%26color%3DFFFFFF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DHELLO%252C%2BI%2BAM%2BALEX%2BMIANO%3BSYSTEMS%2BSCIENTIST%3BWEB3%2BDEVELOPER%3BBUILT%2BWITH%2BLOGIC%2B%2526%2BSPIRIT" alt="Typing SVG" />
-</a>
-
-<!-- BADGES -->
-
-<p align="center">
-<a href="https://alexmiano.free.nf">
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
-</a>
-<a href="https://www.linkedin.com/in/alex-miano-2085832a3/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-</p>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge\&logo=firefox\&logoColor=white)](https://alexmiano.free.nf)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/alex-miano-2085832a3/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mianohh)
 
 </div>
 
-👨‍💻 // WHO_AM_I
+---
 
-const alexMiano = {
-    role: "Systems Scientist & Visionary Developer",
-    archetype: "Logic & Spirit",
-    focus: ["AI Automation", "Blockchain Innovation", "Digital Ecosystems"],
-    philosophy: "Integrating Stoic discipline with algorithmic precision.",
-    mission: "To build intelligent systems that unlock economic opportunity."
-};
+## 🧠 About Me
 
+I am **Alex Miano** — a systems-focused full-stack engineer crafting **high-performance digital solutions** driven by:
 
-I am a visionary technology student and emerging entrepreneur. I move beyond simple coding to architect digital ecosystems. With a background in full-stack development and AI prompt engineering, I build tools that solve real-world problems through automation and data analysis.
+* AI automation
+* Blockchain/Web3 systems
+* Server-side engineering
+* Architecture that is lean, scalable, and built from first principles
 
-🛠️ // TECHNICAL_ARSENAL
+I build **end-to-end applications**, from database design to deployment, with a philosophy rooted in:
+
+```
+Clean Logic  |  Efficiency  |  Maintainability  |  No Unnecessary Framework Bloat
+```
+
+---
+
+## 🚀 Core Mission
+
+> To create technology that empowers individuals, automates workflows, and unlocks economic opportunities.
+
+My work integrates:
+
+* **AI + automation**
+* **Data-driven logic**
+* **Web3 decentralization**
+* **Human-centric problem solving**
+
+---
+
+## 🧩 Featured Projects
+
+### 🧘 SentiLink AI
+
+An emotional AI oracle blending memes, meditation, and Web3 psychology.
+
+### 📚 AidenBooks
+
+A digital ecommerce system for downloadable books & online products.
+Tech: **PHP, MySQL, Vanilla JS**
+
+### 🌐 PoilessNetworks
+
+A Wi-Fi hotspot management and analytics dashboard.
+Tech: **Networking, RADIUS, PHP**
+
+---
+
+## 🛠 Technical Combat Gear
 
 <div align="center">
 
-<!-- SKILL ICONS -->
+### ⚙ Backend & Systems
 
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dphp,mysql,js,html,css,git,linux,nginx,bash,arduino%26theme%3Ddark" />
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-004B70?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge)
 
+### 🖥 Frontend
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
+### 🔗 Web3 Research & Exploration
 
-
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dsolidity,firebase,gcp,vscode,figma%26theme%3Ddark" />
+![Blockchain](https://img.shields.io/badge/Web3-121212?style=for-the-badge)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge)
 
 </div>
 
-Core Capabilities:
+---
 
-Backend Architecture: Expert-level Vanilla PHP & MySQL (No framework bloat).
+## 🧠 Engineering Principles
 
-Web3 & Blockchain: Smart Contracts, dApps, and Cryptocurrency integrations.
+```
+✓ Clean OOP Design
+✓ MVC Architecture
+✓ Database-First Development
+✓ Security-First Mindset
+✓ No Framework Dependency Unless Necessary
+✓ Intelligent Problem Breakdown
+```
 
-Network Systems: Radius, Wi-Fi Hotspot Management, and Server Configuration.
+---
 
-AI Integration: SentiLink AI, Prompt Engineering, and Logic Flows.
-
-🚀 // SYSTEM_MODULES
-
-SYSTEM ID
-
-CLASSIFICATION
-
-STACK
-
-ACCESS
-
-AidenBooks
-
-Digital E-commerce
-
-PHP, MySQL, JS
-
-View Source
-
-Poilessnetworks
-
-ISP Dashboard
-
-Radius, Networking, PHP
-
-View Source
-
-SentiLink AI
-
-Web3 Oracle
-
-AI, Blockchain, Logic
-
-View Source
-
-"Building the web, one secure line of code at a time."
-
-📊 // GITHUB_TELEMETRY
+## 📈 GitHub Analytics (Dark Mode)
 
 <div align="center">
 
-<!-- GITHUB STATS - DARK/TRANSPARENT THEME -->
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmianohh%26show_icons%3Dtrue%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3Dffffff%26text_color%3Dc9cacc%26icon_color%3D58a6ff" alt="Alex's Stats" />
-
-<!-- STREAK STATS -->
-
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dmianohh%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3Dffffff%26text_color%3Dc9cacc%26stroke%3Dffffff%26ring%3D58a6ff%26fire%3D58a6ff%26currStreakNum%3Dffffff%26sideNums%3Dffffff%26currStreakLabel%3D58a6ff%26sideLabels%3D58a6ff" alt="Alex's Streak" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mianohh\&layout=compact\&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=mianohh\&show_icons=true\&theme=dark\&hide_title=true)
 
 </div>
 
+---
+
+## 🌑 A Quote to Run My Code
+
+```
+"Build the future—one logical instruction at a time."
+```
+
+---
+
+## 📡 Transmission Channel
+
 <div align="center">
 
-<a href="https://alexmiano.free.nf">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/ESTABLISH_CONNECTION-VISIT_PORTFOLIO-000000%3Fstyle%3Dfor-the-badge%26logoColor%3Dwhite" />
-</a>
+[![Portfolio](https://img.shields.io/badge/🌐_VISIT_PORTFOLIO-000000?style=for-the-badge)](https://alexmiano.free.nf)
+[![LinkedIn](https://img.shields.io/badge/💼_CONNECT-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/alex-miano-2085832a3/)
 
+</div>
 
+---
 
+<div align="center">
 
-
-© 2025 Alex Miano. Built with Logic & Spirit.
-
+⭐ If my work interests you, consider **starring a repo** — it fuels more creation.
 
 </div>
