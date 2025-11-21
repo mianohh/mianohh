@@ -1,133 +1,122 @@
-<!-- ALEX MIANO GITHUB PROFILE -->
-
-<!-- Theme: Dark / Systems Scientist / Web3 -->
-
-<!-- Colors: BG: #0a0a0a, Accent: #00f3ff, Accent-2: #bd00ff -->
-
 <div align="center">
 
-🌑 Alex Miano (@mianohh)
-
-<!-- TYPING ANIMATION: Uses Orbitron font and Cyan Accent (#00f3ff) -->
+<!-- ANIMATED TYPING HEADER -->
 
 <a href="https://alexmiano.free.nf">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DOrbitron%26size%3D22%26duration%3D3000%26pause%3D1000%26color%3D00F3FF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DSYSTEMS%2BSCIENTIST%3BWEB3%2BDEVELOPER%3BVISIONARY%3BFULL%2BSTACK%2BENGINEER" alt="Typing Animation" />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D35%26pause%3D1000%26color%3DFFFFFF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DHELLO%252C%2BI%2BAM%2BALEX%2BMIANO%3BSYSTEMS%2BSCIENTIST%3BWEB3%2BDEVELOPER%3BBUILT%2BWITH%2BLOGIC%2B%2526%2BSPIRIT" alt="Typing SVG" />
 </a>
 
-<!-- BADGES: Styled to match the dark theme -->
+<!-- BADGES -->
 
-<!-- Portfolio Badge: Black background, Cyan Logo -->
-
-</div>
-
-// WHO_AM_I
-
-<?php
-// Systems Scientist Class Definition
-class SystemsScientist {
-    public $name = 'Alex Miano';
-    public $role = 'Visionary & Developer';
-    public $focus = [
-        'AI Automation',
-        'Blockchain Innovation',
-        'Digital Business Systems'
-    ];
-
-    public function getPhilosophy() {
-        return "Building solutions that empower people, simplify life, and unlock new economic opportunities.";
-    }
-}
-
-$alex = new SystemsScientist();
-?>
-
-
-💡 Bio: With a background in Full-Stack Development, Blockchain, and AI Prompt Engineering, I build tools like SentiLink AI and AidenBooks. Beyond code, I am deeply invested in Stoic philosophy, meditation, and the intersection of logic and spirit.
-
-// SYSTEM_MODULES (PROJECTS)
-
-<div align="center">
-<table border="0">
-<tr>
-<td width="50%" align="center">
-<h3>📚 AidenBooks</h3>
-<p><strong>Digital Products E-commerce System</strong></p>
-<code>Stack: MySQL, PHP, JS</code>
-
-
-
-
-
-
-
-<!-- Purple Accent Badge (#bd00ff) -->
-<a href="https://alexmiano.free.nf#projects">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/VIEW_SOURCE_->bd00ff?style=for-the-badge&logoColor=white" alt="View">
+<p align="center">
+<a href="https://alexmiano.free.nf">
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
 </a>
-</td>
-<td width="50%" align="center">
-<h3>📡 Poilessnetworks</h3>
-<p><strong>Wi-Fi Hotspot Business Dashboard</strong></p>
-<p>Managing network users and service platforms.</p>
-<code>Stack: Networking, PHP, Radius</code>
-
-
-
-
-
-<!-- Cyan Accent Badge (#00f3ff) -->
-<a href="https://alexmiano.free.nf#projects">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/VIEW_SOURCE->_00f3ff?style=for-the-badge&logoColor=black&labelColor=00f3ff" alt="View">
+<a href="https://www.linkedin.com/in/alex-miano-2085832a3/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-</td>
-</tr>
-</table>
-</div>
-
-// TECHNICAL_ARSENAL
-
-<div align="center">
-
-💻 Backend & Systems Architecture
-
-🌐 Web3 & AI
+</p>
 
 </div>
 
--- Database Engineering Strategy
-CREATE TABLE competence (
-    id INT PRIMARY KEY,
-    skill_area VARCHAR(255),
-    level ENUM('Advanced', 'Visionary')
-);
+👨‍💻 // WHO_AM_I
 
-INSERT INTO competence VALUES 
-(1, 'Relational Database Design', 'Advanced'),
-(2, 'System Optimization', 'Advanced'),
-(3, 'AI Integration', 'Visionary');
+const alexMiano = {
+    role: "Systems Scientist & Visionary Developer",
+    archetype: "Logic & Spirit",
+    focus: ["AI Automation", "Blockchain Innovation", "Digital Ecosystems"],
+    philosophy: "Integrating Stoic discipline with algorithmic precision.",
+    mission: "To build intelligent systems that unlock economic opportunity."
+};
 
 
-// GITHUB_METRICS
+I am a visionary technology student and emerging entrepreneur. I move beyond simple coding to architect digital ecosystems. With a background in full-stack development and AI prompt engineering, I build tools that solve real-world problems through automation and data analysis.
+
+🛠️ // TECHNICAL_ARSENAL
 
 <div align="center">
 
-<!-- Stats Card: BG #0a0a0a, Title #00f3ff, Text #e0e0e0, Icon #bd00ff -->
+<!-- SKILL ICONS -->
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmianohh%26show_icons%3Dtrue%26theme%3Ddark%26bg_color%3D0a0a0a%26title_color%3D00f3ff%26text_color%3De0e0e0%26icon_color%3Dbd00ff%26hide_border%3Dtrue" alt="Alex's Stats" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dphp,mysql,js,html,css,git,linux,nginx,bash,arduino%26theme%3Ddark" />
 
-<!-- Top Langs: BG #0a0a0a, Title #00f3ff -->
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmianohh%26layout%3Dcompact%26theme%3Ddark%26bg_color%3D0a0a0a%26title_color%3D00f3ff%26text_color%3De0e0e0%26hide_border%3Dtrue" alt="Top Languages" />
+
+
+
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dsolidity,firebase,gcp,vscode,figma%26theme%3Ddark" />
 
 </div>
 
-// TRANSMIT_DATA
+Core Capabilities:
+
+Backend Architecture: Expert-level Vanilla PHP & MySQL (No framework bloat).
+
+Web3 & Blockchain: Smart Contracts, dApps, and Cryptocurrency integrations.
+
+Network Systems: Radius, Wi-Fi Hotspot Management, and Server Configuration.
+
+AI Integration: SentiLink AI, Prompt Engineering, and Logic Flows.
+
+🚀 // SYSTEM_MODULES
+
+SYSTEM ID
+
+CLASSIFICATION
+
+STACK
+
+ACCESS
+
+AidenBooks
+
+Digital E-commerce
+
+PHP, MySQL, JS
+
+View Source
+
+Poilessnetworks
+
+ISP Dashboard
+
+Radius, Networking, PHP
+
+View Source
+
+SentiLink AI
+
+Web3 Oracle
+
+AI, Blockchain, Logic
+
+View Source
+
+"Building the web, one secure line of code at a time."
+
+📊 // GITHUB_TELEMETRY
 
 <div align="center">
 
-I am open to discussing AI Automation, Web3 Architecture, and PHP Systems.
+<!-- GITHUB STATS - DARK/TRANSPARENT THEME -->
 
-<!-- Contact Button: Cyan Accent -->
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmianohh%26show_icons%3Dtrue%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3Dffffff%26text_color%3Dc9cacc%26icon_color%3D58a6ff" alt="Alex's Stats" />
+
+<!-- STREAK STATS -->
+
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dmianohh%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3Dffffff%26text_color%3Dc9cacc%26stroke%3Dffffff%26ring%3D58a6ff%26fire%3D58a6ff%26currStreakNum%3Dffffff%26sideNums%3Dffffff%26currStreakLabel%3D58a6ff%26sideLabels%3D58a6ff" alt="Alex's Streak" />
+
+</div>
+
+<div align="center">
+
+<a href="https://alexmiano.free.nf">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/ESTABLISH_CONNECTION-VISIT_PORTFOLIO-000000%3Fstyle%3Dfor-the-badge%26logoColor%3Dwhite" />
+</a>
+
+
+
+
 
 © 2025 Alex Miano. Built with Logic & Spirit.
 
