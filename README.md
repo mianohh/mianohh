@@ -113,17 +113,6 @@ A **blockchain-based record-keeping dApp** for smallholder farmers enabling tran
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mianohh&layout=compact&theme=dark)
-![Stats](https://github-readme-stats.vercel.app/api?username=mianohh&show_icons=true&theme=dark&hide_title=true)
-
-</div>
-
----
-
 ## 🌑 A Quote to Run My Code
 
 ```
